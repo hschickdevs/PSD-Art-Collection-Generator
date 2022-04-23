@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="img/software_logo.png" alt="Logo" width="250">
+  <img src="resources/software_logo.png" alt="Logo" width="280">
 
   <h3 align="center"><strong>NFT-Art-Generator</strong></h3>
 
@@ -43,7 +43,7 @@ ___
 
 3. Clone the repo
    ```sh
-   git clone REPOSITORY_GIT_URL
+   git clone https://github.com/hschickdevs/NFT-Art-Generator.git
    ```
 4. Install pip packages
    ```sh
@@ -62,9 +62,9 @@ ___
    ```sh
    python main.py
    ```
-- To test the software, you can use the [NFT-Official.psd]() document provided in the repository as your input file.
+- To test the software, you can use the [NFT-Official.psd](https://github.com/hschickdevs/NFT-Art-Generator/blob/main//resourcesNFT-Official.psd) document provided in the repository as your input file.
 
-_For a detailed software guide, please refer to the [Documentation](https://example.com)_
+_For a detailed software guide, please refer to the [Documentation](https://github.com/hschickdevs/NFT-Art-Generator/blob/main/resources/NFT%20Art%20Generator%20-%20Usage%20Guide.pdf)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
