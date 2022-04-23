@@ -5,7 +5,7 @@
   <img src="resources/software_logo.png" alt="Logo" width="280">
   <h3 align="center"><strong>NFT-Art-Generator</strong></h3>
   <p align="center">
-    A fun Python program that allows you to generate NFT art collections directly from a Photoshop .psd file!
+    A fun Python program that allows you to ride the NFT wave and algorithmically generate art collections directly from a Photoshop .psd file!
     <br>
   </p>
   <p align="center">
@@ -55,7 +55,7 @@ ___
 
 ## Usage
 
-_For a detailed software guide, please refer to the [Documentation](https://github.com/hschickdevs/NFT-Art-Generator/blob/main/resources/NFT%20Art%20Generator%20-%20Usage%20Guide.pdf)_
+_For a detailed usage guide, please refer to the [Documentation](https://github.com/hschickdevs/NFT-Art-Generator/blob/main/resources/NFT%20Art%20Generator%20-%20Usage%20Guide.pdf)_
 
 ### Setup
 
