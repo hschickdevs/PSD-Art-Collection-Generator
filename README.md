@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="resources/software_logo.png" alt="Logo" width="280">
+  <img src="resources/software_logo.png" alt="Logo" width="300">
   <h3 align="center"><strong>NFT-Art-Generator</strong></h3>
   <p align="center">
     A fun Python program that allows you to ride the NFT wave and algorithmically generate art collections directly from a Photoshop .psd file!
