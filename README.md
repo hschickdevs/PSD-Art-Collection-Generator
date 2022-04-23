@@ -10,7 +10,7 @@
   </p>
   <p align="center">
     <strong>Features Include:</strong><br>
-    True random or specified element rarity<br>
+    Random or specified element rarity<br>
     Direct integration with the Adobe Photoshop application
   </p>
 </div>
