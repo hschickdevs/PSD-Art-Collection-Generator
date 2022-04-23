@@ -1,12 +1,9 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <img src="resources/software_logo.png" alt="Logo" width="280">
-
   <h3 align="center"><strong>NFT-Art-Generator</strong></h3>
-
   <p align="center">
     A fun Python program that allows you to generate NFT art collections directly from a Photoshop .psd file!
     <br>
@@ -58,13 +55,21 @@ ___
 
 ## Usage
 
+_For a detailed software guide, please refer to the [Documentation](https://github.com/hschickdevs/NFT-Art-Generator/blob/main/resources/NFT%20Art%20Generator%20-%20Usage%20Guide.pdf)_
+
+### Setup
+
 - To run the software, navigate to the directory to which this repository was cloned, and run:
    ```sh
    python main.py
    ```
-- To test the software, you can use the [NFT-Official.psd](https://github.com/hschickdevs/NFT-Art-Generator/blob/main//resourcesNFT-Official.psd) document provided in the repository as your input file.
+- For testing, you can use the sample [NFT-Official.psd](https://github.com/hschickdevs/NFT-Art-Generator/blob/main//resources/NFT-Official.psd) file provided in the repository as your input file.
 
-_For a detailed software guide, please refer to the [Documentation](https://github.com/hschickdevs/NFT-Art-Generator/blob/main/resources/NFT%20Art%20Generator%20-%20Usage%20Guide.pdf)_
+### Output
+
+- You should see the two following folders in your selected output folder:
+  - `Exported_CSV_Data`: Contains a CSV datafile showing which elements from the .psd file were selected for each NFT art image generated.
+  - `Generated_NFT_Images`: Contains all of the generated NFT art images in .PNG format.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -74,6 +79,16 @@ _For a detailed software guide, please refer to the [Documentation](https://gith
 
 ## Demo
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+### Operation Setup
+![software_demo_setup.gif](resources/software_demo_setup.gif)
+
+### Setting Element Rarities
+![software_demo_rarities.gif](resources/software_demo_rarities.gif)
+
+### Generating NFT Art Images
+![software_demo_operation.gif](resources/software_demo_operation.gif)
+
+### Viewing Output
+![software_demo_result.gif](resources/software_demo_result.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
