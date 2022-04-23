@@ -1,0 +1,2 @@
+photoshop_python_api
+PySimpleGUI
