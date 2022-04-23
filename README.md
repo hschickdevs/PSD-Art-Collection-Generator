@@ -69,7 +69,7 @@ _For a detailed usage guide, please refer to the [Documentation](https://github.
 
 - You should see the two following folders in your selected output folder:
   - `Exported_CSV_Data`: Contains a CSV datafile showing which elements from the .psd file were selected for each NFT art image generated.
-  - `Generated_NFT_Images`: Contains all of the generated NFT art images in .PNG format.
+  - `Generated_NFT_Images`: Contains all of the generated images in .PNG format.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ _For a detailed usage guide, please refer to the [Documentation](https://github.
 ### Setting Element Rarities
 ![software_demo_rarities.gif](resources/software_demo_rarities.gif)
 
-### Generating NFT Art Images
+### Generating Art Collection
 ![software_demo_operation.gif](resources/software_demo_operation.gif)
 
 ### Viewing Output
