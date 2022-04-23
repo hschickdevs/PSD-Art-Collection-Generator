@@ -68,7 +68,7 @@ _For a detailed usage guide, please refer to the [Documentation](https://github.
 ### Output
 
 - You should see the two following folders in your selected output folder:
-  - `Exported_CSV_Data`: Contains a CSV datafile showing which elements from the .psd file were selected for each NFT art image generated.
+  - `Exported_CSV_Data`: Contains a CSV datafile showing which elements from the .psd file were selected for each image generated.
   - `Generated_NFT_Images`: Contains all of the generated images in .PNG format.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
