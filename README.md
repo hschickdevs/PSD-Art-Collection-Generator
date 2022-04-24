@@ -80,15 +80,15 @@ _For a detailed usage guide, please refer to the [Documentation](https://github.
 ## Demo
 
 ### Operation Setup
-![software_demo_setup.gif](resources/software_demo_setup.gif)
+![software_demo_setup](resources/software_demo_setup.gif)
 
 ### Setting Element Rarities
-![software_demo_rarities.gif](resources/software_demo_rarities.gif)
+![software_demo_rarities](resources/software_demo_rarities.gif)
 
 ### Generating Art Collection
-![software_demo_operation.gif](resources/software_demo_operation.gif)
+![software_demo_operation](resources/software_demo_operation.gif)
 
 ### Viewing Output
-![software_demo_result.gif](resources/software_demo_result.gif)
+![software_demo_result](resources/software_demo_result.gif)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
