@@ -3,9 +3,9 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <img src="resources/software_logo.png" alt="Logo" width="300">
-  <h3 align="center"><strong>NFT-Art-Generator</strong></h3>
+  <h3 align="center"><strong>Photoshop-Generative-Random-Art</strong></h3>
   <p align="center">
-    A fun Python program that allows you to ride the NFT wave and algorithmically generate art collections directly from a Photoshop .psd file!
+    A fun Python program inspired by the NFT art collection wave that creates algorithmically generated randomized art collections directly from a Photoshop .psd file!
     <br>
   </p>
   <p align="center">
