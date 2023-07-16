@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <img src="resources/software_logo.png" alt="Logo" width="300">
-  <h3 align="center"><strong>Photoshop-Generative-Random-Art</strong></h3>
+  <h3 align="center"><strong>PSD-Art-Collection-Generator</strong></h3>
   <p align="center">
     A fun Python program inspired by the NFT art collection wave that creates algorithmically generated randomized art collections directly from a Photoshop .psd file!
     <br>
@@ -40,7 +40,7 @@ ___
 
 3. Clone the repo
    ```sh
-   git clone https://github.com/hschickdevs/NFT-Art-Generator.git
+   git clone https://github.com/hschickdevs/PSD-Art-Collection-Generator.git
    ```
 4. Install pip packages
    ```sh
